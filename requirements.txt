@@ -1,4 +1,3 @@
-Make sure you have installed the following python libraries:
 streamlit==1.30.0
 pandas==2.0.3
 plotly==5.18.0
